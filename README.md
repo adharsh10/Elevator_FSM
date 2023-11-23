@@ -5,3 +5,8 @@ Verilog HDL design code and testbench for an elevator FSM. Reports of the covera
 ![Screenshot from 2023-10-19 14-03-39](https://github.com/adharsh10/Elevator_FSM/assets/93504705/3e48d7c5-21e3-4d09-9c65-58801f1676a9)
 
 ![Output_updated](https://github.com/adharsh10/Elevator_FSM/assets/93504705/71cb21e8-defe-4d42-926b-52c32ac51fbd)
+
+
+AFTER LAYERED TESTBENCH
+
+![Screenshot from 2023-11-21 16-50-49](https://github.com/adharsh10/Elevator_FSM/assets/93504705/189b455b-2762-4014-a6b5-76275992944a)
